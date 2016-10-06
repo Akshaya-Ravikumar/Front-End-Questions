@@ -1,0 +1,12 @@
+
+1.	explain digest loop in angular js
+2.	what does $watch in angular js do?
+3.	What should be the maximum number of concurrent “watches”? Bonus: How would you keep an eye on that number?
+  to reduce memory consumption and improve performance it is a good idea to limit the number of watches on a page to 2,000. A utility called ng-stats can help track your watch count and digest cycles.
+4.	How do you share data between controllers?
+5.	$scope.$apply()
+6.	what is a singleton pattern? And where we can find it in angular js?
+7.	How do you filter  in html ?
+8.	What is $rootscope?
+9.	Event handling in angular js?
+10.	What are the attributes in custom directive
