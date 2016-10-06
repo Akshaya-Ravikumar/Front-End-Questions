@@ -8,4 +8,8 @@
 8.	How do you convert JSON to js objects
 9.	Window.onload and document.onload?
 10. What is the difference between call, apply and bind?
-11. 
+11. What is javascript paradigm
+12. Explain Functional Programming
+13. what is constructor function
+14. what is OLOO (object linked to Other Objects)?
+
