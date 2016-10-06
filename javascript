@@ -10,6 +10,9 @@
 10. What is the difference between call, apply and bind?
 11. What is javascript paradigm
 12. Explain Functional Programming
-13. what is constructor function
-14. what is OLOO (object linked to Other Objects)?
+13. What is constructor function
+14. What is OLOO (object linked to Other Objects)?
+15. Explain event delegation in Javascript.
+16.
+
 
