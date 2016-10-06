@@ -1,6 +1,6 @@
 1.	Difference between normalized and reset css?
 2.	What is flexbox?
-3.	Difference between visibility : hidden(takes up space) and display: none;
+3.	Difference between visibility : hidden(takes up space) and display: none;?
 4.	Explain positioning concepts
 5.	Features of css3?
 6.	Shorthand properties in css?
@@ -10,5 +10,9 @@
 10.	Give some best practices to improve performance in a web page.
 11.	What are the js performance problem you have encountered and how did you solve that?
 12.	How can you add and remove data from local storage?
-13. what are the new features offered by HTML 5?
-14. what is css module?
+13. What are the new features offered by HTML 5?
+14. What is css module?
+15. Will Local storage work in private browser mode?
+16. Expalin your thought process of creating a single page application.
+17. From development point of view, explain what should be the approach followed for RWD? (mobilefirst or desktopfirst)
+18. 
