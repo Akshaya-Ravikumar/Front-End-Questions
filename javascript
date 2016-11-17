@@ -13,6 +13,7 @@
 13. What is constructor function
 14. What is OLOO (object linked to Other Objects)?
 15. Explain event delegation in Javascript.
-16.
+16. Expalin Graceful delegation Vs Progressive enhnacements?
+17. How can we prevent modification of objects in JS?
 
 
