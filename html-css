@@ -15,4 +15,5 @@
 15. Will Local storage work in private browser mode?
 16. Expalin your thought process of creating a single page application.
 17. From development point of view, explain what should be the approach followed for RWD? (mobilefirst or desktopfirst)
-18. 
+18. How to center Divs both horizontally and vertically when both height and width are unknown ? 
+    https://css-tricks.com/centering-css-complete-guide/
